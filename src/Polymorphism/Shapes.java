@@ -6,6 +6,8 @@ public class Shapes {
         Shape rectangle = new Rectangle();
         Rectangle rect = new Square();
         Shape square = new Square();
+        //This wouldn't work because not all rectangles are squares
+        //Square sq = new Rectangle();
     }
 }
 
