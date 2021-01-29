@@ -1,6 +1,6 @@
-package primary._1_datatypes;
+package _0_primary._1_datatypes;
 
-public class VariableTypes {
+public class _0_VariableTypes {
     public static void main(String[] args) {
         //If we want to store a negative or positive whole number (AKA an Integer)
         //then we use an int

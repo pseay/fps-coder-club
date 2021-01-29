@@ -1,6 +1,6 @@
-package secondary.polymorphism2;
+package _1_secondary._1_polymorphism2;
 
-import secondary.polymorphism.PublicPrivateAndProtected;
+import _1_secondary._0_polymorphism.PublicPrivateAndProtected;
 
 public class WhatCanIAccess {
     public static void main(String[] args) {

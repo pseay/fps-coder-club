@@ -1,6 +1,6 @@
-package primary._1_datatypes;
+package _0_primary._1_datatypes;
 
-public class Printing {
+public class _1_Printing {
     public static void main(String[] args) {
         String str = "hello world";
         System.out.println(str);

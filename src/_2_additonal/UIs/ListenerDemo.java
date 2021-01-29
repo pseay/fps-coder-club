@@ -1,4 +1,4 @@
-package additonal.UIs;
+package _2_additonal.UIs;
 
 import javax.swing.*;
 import java.awt.*;

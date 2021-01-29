@@ -1,11 +1,20 @@
-package secondary.polymorphism;
+package _1_secondary._0_polymorphism;
 
-public class ComplexNums {
+public class _0_ComplexNums {
     public static void main(String[] args) {
         new Num(5.3);
         new Real(5);
         new Real(2.4);
         new Int(3);
+        //PS: Integer, Double, Float and Byte all inherit from a Number class
+        Number n;
+        n = 5;
+        n = 5.5;
+        n = (byte) 1;
+        n = 5.5F;
+        //And everything inherits from an Object class
+        Object obj = n;
+
     }
 }
 

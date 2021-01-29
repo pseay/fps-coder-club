@@ -1,4 +1,4 @@
-package secondary.polymorphism;
+package _1_secondary._0_polymorphism;
 
 public class Shapes {
     public static void main(String[] args) {
