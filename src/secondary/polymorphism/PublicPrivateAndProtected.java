@@ -1,4 +1,4 @@
-package Polymorphism;
+package secondary.polymorphism;
 
 public class PublicPrivateAndProtected {
     private int priv;//accessed within the class

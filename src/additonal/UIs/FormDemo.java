@@ -1,7 +1,6 @@
-package UIs;
+package additonal.UIs;
 
 import javax.swing.*;
-import java.awt.*;
 
 public class FormDemo {
 
