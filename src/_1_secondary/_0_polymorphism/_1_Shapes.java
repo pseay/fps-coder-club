@@ -1,6 +1,6 @@
 package _1_secondary._0_polymorphism;
 
-public class Shapes {
+public class _1_Shapes {
     public static void main(String[] args) {
         Shape s = new Shape();
         Shape rectangle = new Rectangle();
