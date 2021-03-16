@@ -1,4 +1,4 @@
-package _0_primary._2_conditionals;
+package _0_primary._3_conditionals;
 
 public class _0_IfConditions {
     public static void main(String[] args) {
